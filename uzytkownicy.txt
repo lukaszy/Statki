@@ -1,0 +1,12 @@
+login:aa
+haslo:pas1
+login:log2
+haslo:pas2
+login:lukasz
+haslo:qwerty
+login:luk
+haslo:mak
+login:aa2
+haslo:ss
+login:janek
+haslo:qwerty
